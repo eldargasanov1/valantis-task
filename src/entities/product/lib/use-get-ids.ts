@@ -50,7 +50,7 @@ export const useGetIds = () => {
 
 	if (idsInfo.isError) {
 		console.log('Ошибка получения ID:', idsInfo.error);
-		// getIds(idsParams);
+		getIds(idsParams);
 	}
 
 	return { page, setPage, idsInfo };
