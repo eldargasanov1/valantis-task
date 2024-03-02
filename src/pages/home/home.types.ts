@@ -1,0 +1,2 @@
+// UI
+export interface HomeProps {}

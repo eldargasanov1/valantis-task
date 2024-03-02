@@ -1,0 +1,3 @@
+// UI
+
+export interface ProductListProps {}

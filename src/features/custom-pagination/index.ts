@@ -1,0 +1,1 @@
+export { CustomPagination } from './ui/custom-pagination';
